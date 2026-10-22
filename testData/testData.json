@@ -1,0 +1,20 @@
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalidUser": {
+    "username": "wrong_user",
+    "password": "wrong_password"
+  },
+  "cartProducts": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bolt T-Shirt",
+    "Sauce Labs Onesie"
+  ],
+  "checkoutInfo": {
+    "firstName": "Hana",
+    "lastName": "Mostafa",
+    "postalCode": "17666"
+  }
+}
